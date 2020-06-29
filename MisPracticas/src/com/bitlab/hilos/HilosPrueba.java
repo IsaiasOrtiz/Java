@@ -18,7 +18,7 @@ public class HilosPrueba implements Runnable
     @Override
     public void run() {
         try {
-            System.out.println("Hola mundo desde nuestro hilo");
+            System.out.println("Hola mundo desde nuestro hillo");
             Thread.sleep(5000);
         } catch (InterruptedException ex) {
             Logger.getLogger(HilosPrueba.class.getName()).log(Level.SEVERE, null, ex);
