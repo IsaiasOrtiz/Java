@@ -10,7 +10,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Douglas
+ * @author Douglas we
  */
 public class HilosPrueba implements Runnable
 {
